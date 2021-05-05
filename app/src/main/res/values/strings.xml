@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WordCounter2lab</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="edit_text_hint">Type your text…</string>
+    <string name="words">Words</string>
+    <string name="chars">Chars</string>
+    <string name="words_count">Words count: </string>
+    <string name="chars_count">Chars count:</string>
+    <string name="empty">Input is empty!</string>
+
+</resources>
